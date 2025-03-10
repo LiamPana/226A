@@ -1,3 +1,10 @@
+/**
+*Esercizio 5
+*Quadrato
+*Inserisci i parametri del quadrato. (Ho fatto il possibile ma intellij ha avuto dei problemi nella compilazione e non sono riuscito a far andare il programma)
+*@author Liam Panarisi
+*@version 09.03.2025
+**/
 public class Main {
     public static void main(String[] args) {
         Square square1 = new Square();
