@@ -1,5 +1,12 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+/**
+*Esercizio 5
+*Planet
+*
+*@author Liam Panarisi
+*@version 16.03.2025
+*/
 public class Main {
     public static void main(String[] args) {
         try{
