@@ -1,0 +1,35 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Plant {
+ -name: string
+ -mass: float
+ -volume: float
+ -density: float
+ -radius: int
+ -life: boolean
+ -population: long
+ -gasGiant: boolean
+ -albedo: boolean
+ +Planet(name : string, mass : float, volume : float, density : float, radius : int, life : bool, population : long, gasGiant : bool, albedo : bool)
+ +getName():string
+ +setName(string)
+ +getMass():float
+ +setMass(float)
+ +getVolume():float
+ +setVolume(float)
+ +getDensity():float
+ +setDensity(float)
+ +getRadius():int
+ +setRadius(int)
+ +getLife():boolean
+ +setLife(boolean)
+ +getPopulation():long
+ +setPopulation(long)
+ +getGasGiant():boolean
+ +setGasGiant(boolean)
+ +getAlbedo():boolean
+ +setAlbedo(boolean)
+ +toString(string)
+}
+
+@enduml

@@ -4,7 +4,7 @@ import java.awt.*;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 
 /**
- *Rettangolo 
+ *Rettangolo
  *
  */
 public class Main {
