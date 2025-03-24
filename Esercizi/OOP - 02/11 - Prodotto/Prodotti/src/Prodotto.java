@@ -1,3 +1,9 @@
+/**
+ *  La classe Prodotto instanzia gli attributi per far un prodotto con il prezzo e le quantità
+ *  Il metodo AggiornaQuantità serve per Aggiornare la quantità in magazzino di questo prodotto.
+ * @author Liam Panarisi
+ * @version Marzo 2025
+ */
 public class Prodotto {
     private String nome;
     private int codice;
