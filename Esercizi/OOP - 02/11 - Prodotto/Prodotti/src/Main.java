@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Prodotto cioccolato = new Prodotto("Cioccolato",120,5,30);
+        Prodotto cioccolato = new Prodotto("Cianuro",120,5,30);
         Scanner scanner = new Scanner(System.in);
         System.out.println("Aggiorna quantità: ");
         try{
@@ -19,7 +19,7 @@ public class Main {
             System.out.println(cioccolato);
 
         }catch(InputMismatchException i){
-            System.out.println("Inserire solo valori numerici");
+            System.out.println("Menghia inserisci  solo valori nummerici, pagatu lo pizzo ste mese ?");
         }catch(IllegalArgumentException i){
             System.out.println(i.getMessage());
         }finally {
