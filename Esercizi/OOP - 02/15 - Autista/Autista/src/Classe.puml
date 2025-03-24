@@ -1,0 +1,50 @@
+@startuml
+class Autista {
+ -nome: string
+ -cognome: string
+ -Veicolo: auto
+ -Sede: sede
+ +Autista(nome : string, cognome : string, auto : Veicolo, sede : Sede)
+ +getNome():string
+ +setNome(string)
+ +getCognome():string
+ +setCognome(string)
+ +getSede():Sede
+ +setSede(Sede)
+ +getAuto():Veicolo
+ +setAuto(Veicolo)
+}
+class Sede {
+ -modello: string
+ -marca: string
+ -targa: string
+ +Sede(modello : string, marca : string, targa : string)
+ +getModello():string
+ +setModello(string)
+ +getMarca():string
+ +setMarca(string)
+ +getTarga():string
+ +setTarga(string)
+}
+class Veicolo {
+ -NPA: int
+ -indirizzo: string
+ -telefono: auto
+ +Veicolo(NPA : int, telefono : int)
+ +getNPA():int
+ +setNPA(int)
+ +getIndirizzo():string
+ +setIndirizzo(string)
+}
+
+class Program {
+}
+Autista "1"--"1" Veicolo
+Sede "1"--"*" Autista
+Sede "1"--"*" Veicolo
+
+
+
+
+
+@enduml
