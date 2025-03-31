@@ -40,8 +40,7 @@ class Veicolo {
 class Program {
 }
 Autista "1"--"1" Veicolo
-Sede "1"--"*" Autista
-Sede "1"--"*" Veicolo
+Sede "1"--"1" Autista
 
 
 

@@ -1,9 +1,14 @@
+import java.security.InvalidParameterException;
+
 public class Sede {
     private int NPA;
     private String indirizzo;
     private String telefono;
 
     public Sede(int NPA, String indirizzo, String telefono) {
+        if (NPA < 0 ||  indirizzo.isEmpty() || telefono.isEmpty()) {
+            throw new NullPointerException("Il indirizzo o telefono o npa non valido.");
+        }
         this.NPA = NPA;
         this.indirizzo = indirizzo;
         this.telefono = telefono;

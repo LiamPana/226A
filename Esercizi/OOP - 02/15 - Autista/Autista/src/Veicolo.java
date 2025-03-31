@@ -4,9 +4,13 @@ public class Veicolo {
     private String targa;
 
     public Veicolo(String modello, String marca, String targa) {
-        this.modello = modello;
-        this.marca = marca;
-        this.targa = targa;
+        if( modello.isEmpty() || marca.isEmpty() || targa.isEmpty()){
+            throw new IllegalArgumentException("modello o marca o targa non valido");
+        }else {
+            this.modello = modello;
+            this.marca = marca;
+            this.targa = targa;
+        }
     }
 
     public String getModello() {
@@ -14,7 +18,11 @@ public class Veicolo {
     }
 
     public void setModello(String modello) {
-        this.modello = modello;
+        if( modello.isEmpty()){
+            throw new IllegalArgumentException("modello non valido");
+        }else {
+            this.modello = modello;
+        }
     }
 
     public String getMarca() {
