@@ -1,0 +1,44 @@
+@startuml
+class Brano {
+ -titolo: string
+ -autore: string
+ +Brano(titolo : string, autore : string)
+ +getTitolo():string
+ +setTitolo(string)
+ +getAutore():string
+ +setAutore(string)
+ +getSede():Sede
+ +setSede(Sede)
+ +getAuto():Veicolo
+ +setAuto(Veicolo)
+}
+class Playlist {
+ -titolo: string
+ -brani[]: Brano
+ +Playlist(titolo : string, brani[] : Brano)
+ +getTitolo():string
+ +setTitolo(string)
+ +getBrani[]():Brano
+ +setBrani[](Brano)
+}
+class Player {
+ -NPA: int
+ -indirizzo: string
+ -telefono: auto
+ +Veicolo(NPA : int, telefono : int)
+ +getNPA():int
+ +setNPA(int)
+ +getIndirizzo():string
+ +setIndirizzo(string)
+}
+
+class Program {
+}
+Autista "1"--"1" Veicolo
+Sede "1"--"1" Autista
+
+
+
+
+
+@enduml
