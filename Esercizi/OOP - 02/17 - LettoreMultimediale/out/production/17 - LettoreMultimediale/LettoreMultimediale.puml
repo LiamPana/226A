@@ -30,6 +30,6 @@ class Player {
 
 class Program {
 }
-Player "1"--"1" Brano
+Autista "1"--"1" Veicolo
 Sede "1"--"1" Autista
 @enduml
