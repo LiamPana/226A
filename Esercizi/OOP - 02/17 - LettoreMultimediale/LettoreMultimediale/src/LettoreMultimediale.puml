@@ -34,7 +34,7 @@ class Player {
 
 class Program {
 }
-Autista "1"--"1" Veicolo
+Player "1"--"1" Brano
 Sede "1"--"1" Autista
 
 

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c2d1c49-8f8e-4504-a7c3-1f950e54e6f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.1/HelloNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.1/HelloNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.10/Potenza.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.10/Potenza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.11/Codice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.11/Codice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.12/NotaModulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.12/NotaModulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.14/NotaModulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.14/NotaModulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.2/ContaArgsjava.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.2/ContaArgsjava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.3/MediaArtimetica.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.3/MediaArtimetica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.4/TrovaResto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.4/TrovaResto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.5/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.5/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.6/Pitagora.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.6/Pitagora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.7/Dado.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.7/Dado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.9/SwapValori.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/2/2.9/SwapValori.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/Calcolatrice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/3/Calcolatrice/Calcolatrice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.1/ArrayPrimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.1/ArrayPrimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.6/Matrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.6/Matrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/4.9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/4.9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/4.9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroJava - 01/4/4.9/src/4.9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/ClassePunto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/ClassePunto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/src/Punto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1 - classePunto/ClassePunto/src/Punto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/Prodotto.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/Prodotto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/copy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/jquery-ui.overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/jquery-ui.overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/legal/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/JavaDoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/Prodotti.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/Prodotti.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/src/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/src/Prodotto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/src/Prodotto.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11 - Prodotto/Prodotti/src/Prodotto.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/Autista.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/Autista.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Autista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Autista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Classe.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Classe.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Sede.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Sede.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Veicolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/Autista/src/Veicolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Autista.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Autista.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Sede.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Sede.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Veicolo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/Veicolo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/copy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/jquery-ui.overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/jquery-ui.overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/ASSEMBLY_EXCEPTION" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/legal/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search-page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15 - Autista/javaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../15 - Autista/javaDoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/LettoreMultimediale.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/LettoreMultimediale.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/src/LettoreMultimediale.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../17 - LettoreMultimediale/LettoreMultimediale/src/LettoreMultimediale.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5 - classeQuadrato/5/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5 - classeQuadrato/5/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/Star.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/Star.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/src/Star.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/src/Star.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6 - classeStar/Star/src/Star.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../6 - classeStar/Star/src/Star.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/Coordinator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/Coordinator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/src/Coordinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Coordinator/src/Coordinator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/Rettangolo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/Rettangolo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/src/Rettangolo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/src/Rettangolo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/src/Rettanoglo.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7 - Rettangolo/Rettangolo/src/Rettanoglo.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/Planet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/Planet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Plant.puml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8 - Planet/Planet/src/Plant.puml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vfz2SQKPMcQL2wGr35694bDGBx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Scuola/2aa/Semetre2/226A/GitRep/M226A/226A/Esercizi/OOP - 02/18 - DipartimentoProfessori/18",
+    "onboarding.tips.debug.path": "/Volumes/DAMNLiam/Scuola/2aa/Semetre2/226A/GitRep/M226A/226A/Esercizi/OOP - 02/18 - DipartimentoProfessori/18/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c2d1c49-8f8e-4504-a7c3-1f950e54e6f2" name="Changes" comment="" />
+      <created>1744550711110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744550711110</updated>
+    </task>
+    <servers />
+  </component>
+</project>
