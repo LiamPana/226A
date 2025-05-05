@@ -1,0 +1,21 @@
+@startuml
+class MorseEntry {
+ -morseCode: string
+ -originalText: string
+ +MorseEntry(morseCode : string, originalText : string)
+ +getMorseCode():string
+ +setMorseCode(string)
+ +getOriginalText():string
+ +setOriginalText(string)
+ +toString(): void
+ +hashCode() void
+}
+class MorseConverter{
+
+}
+class FileManager{
+-filename: string
++FileManager(filename : string)
++get
+}
+@enduml
