@@ -11,11 +11,13 @@ class MorseEntry {
  +hashCode() void
 }
 class MorseConverter{
-
++morseMap : List<HashMap>
++toMorse() : void
 }
 class FileManager{
 -filename: string
 +FileManager(filename : string)
-+get
++WriteEntries() : void
++ReadEntries() : void
 }
 @enduml
