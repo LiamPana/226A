@@ -1,0 +1,38 @@
+@startuml
+skinparam classAttributeIconSize 0
+class Videogioco{
+-titolo:String
+-sviluppatori: List<Sviluppatore>
+-prezzo: float
+-stato: boolean
+-Videogioco(titolo:String, prezzo:float, stato:boolean)
++getTitolo(): String
++setTitolo(String): void
++getPrezzo(): float
++setPrezzo(float): void
++aggiungiSvil(sviluppatore: Sviluppatore): void
++rimuoviSvil(sviluppatore: Sviluppatore): void
+}
+class Negozio{
+-nome:String
+-giochi: List<Videogioco>
+-Negozio(nome:String)
++getNome(): String
++setNome(String): void
++aggiungiVideogioco(): void
++rimuoviVideogioco(): void
++tuttiVideogiochi():void
++toString():void
+}
+
+class Sviluppatore{
+-nome:String
+-Sviluppatore(nome:String)
++getNome(): String
++setNome(String): void
++toString():void
+}
+
+Videogioco "*" -- "*" Sviluppatore
+Negozio "*" -- "*" Videogioco
+@enduml
