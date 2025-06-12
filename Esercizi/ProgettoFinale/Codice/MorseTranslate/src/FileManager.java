@@ -16,6 +16,7 @@ public class FileManager {
         if (nomeFile == null) {throw new NullPointerException("nomeFile is null");}
        else {this.nomeFile = nomeFile;}}
 
+    // metodo per scrivere nei file con codice e testo
     public void writeEntries(ArrayList<MorseEntry> entries) throws IOException {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(nomeFile, true))) {
             for (MorseEntry entry : entries) {
@@ -24,7 +25,7 @@ public class FileManager {
             }
         }
     }
-
+// metodo per leggere quello che viene scrittto nei file txt
     public void readEntries() throws IOException {
         try (BufferedReader reader = new BufferedReader(new FileReader(nomeFile))) {
             String line;
